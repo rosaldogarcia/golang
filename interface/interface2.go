@@ -70,6 +70,7 @@ func main() {
 	// method
 	p1.speak()
 	sa1.speak()
+	// interface
 	bar(p1)
 	bar(sa1)
 
